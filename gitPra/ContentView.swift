@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  gitPra
-//
-//  Created by 津本拓也 on 2024/05/05.
-//
 
 import SwiftUI
 
@@ -13,7 +7,8 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("hogehoge")
+            
         }
         .padding()
     }
